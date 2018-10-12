@@ -1,19 +1,20 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Platform
+logo: /img/icons-twitter.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: '3153 Lynn Avenue, South San Francisco, California 94080'
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
 ---
+Understand Your Audience and Customer Personas
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Integrate your social media and digital audience data. Aggregate your audience interactions, activities, and interests in one place to get a holistic view of your buyer personas
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+Save time and resources by letting machine learning define your buyer personas across channels based on dynamic digital data
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Sharpen your targeting with AI-powered recommendations tailored to each of your personas, so you can reach them with personalized content
+
+Discover the top content for your buyer personas across social media channels, industries, and countries to create posts your audiences will love
+
+Let AI match your audience segments with influencers they trust and leverage their reach and engagement for your brand
