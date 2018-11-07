@@ -12,3 +12,9 @@
   box-shadow: inset 0 0 0 2px var(--primary);
   transition: var(--hover-transition);
 }
+.navlink{
+  color: #2F3744;
+  font-family: 'Roboto',sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+}
